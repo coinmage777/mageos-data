@@ -5,74 +5,74 @@
   "ETH",
   "SOL"
  ],
- "updated_at": "2026-07-02T17:09:01Z",
+ "updated_at": "2026-07-02T18:09:02Z",
  "windows": {
   "d7": {
    "aster": {
     "BTC": {
-     "funding_apr_pct": 9.84,
-     "n": 226,
-     "spread_bps": 0.078,
-     "spread_bps_max": 2.171,
+     "funding_apr_pct": 9.825,
+     "n": 238,
+     "spread_bps": 0.09,
+     "spread_bps_max": 2.479,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 6.909,
-     "n": 226,
-     "spread_bps": 0.238,
+     "funding_apr_pct": 6.968,
+     "n": 238,
+     "spread_bps": 0.248,
      "spread_bps_max": 2.236,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 3.491,
-     "n": 226,
-     "spread_bps": 1.61,
+     "funding_apr_pct": 3.577,
+     "n": 238,
+     "spread_bps": 1.612,
      "spread_bps_max": 4.879,
      "spread_bps_min": 1.211
     }
    },
    "backpack": {
     "BTC": {
-     "funding_apr_pct": 9.451,
-     "n": 226,
-     "spread_bps": 0.031,
+     "funding_apr_pct": 8.89,
+     "n": 238,
+     "spread_bps": 0.03,
      "spread_bps_max": 1.503,
      "spread_bps_min": 0.016
     },
     "ETH": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 0.084,
+     "n": 238,
+     "spread_bps": 0.089,
      "spread_bps_max": 3.043,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 10.642,
-     "n": 226,
-     "spread_bps": 1.269,
+     "funding_apr_pct": 10.658,
+     "n": 238,
+     "spread_bps": 1.268,
      "spread_bps_max": 2.452,
      "spread_bps_min": 1.211
     }
    },
    "binance": {
     "BTC": {
-     "funding_apr_pct": 6.459,
-     "n": 226,
-     "spread_bps": 0.018,
+     "funding_apr_pct": 6.369,
+     "n": 238,
+     "spread_bps": 0.017,
      "spread_bps_max": 0.214,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 5.281,
-     "n": 226,
+     "funding_apr_pct": 5.41,
+     "n": 238,
      "spread_bps": 0.061,
      "spread_bps_max": 0.12,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 3.675,
-     "n": 226,
-     "spread_bps": 1.263,
+     "funding_apr_pct": 3.397,
+     "n": 238,
+     "spread_bps": 1.262,
      "spread_bps_max": 1.3,
      "spread_bps_min": 1.211
     }
@@ -80,22 +80,22 @@
    "edgex": {
     "BTC": {
      "funding_apr_pct": 10.95,
-     "n": 226,
+     "n": 238,
      "spread_bps": 0.329,
      "spread_bps_max": 1.85,
      "spread_bps_min": 0.017
     },
     "ETH": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 0.971,
+     "n": 238,
+     "spread_bps": 0.974,
      "spread_bps_max": 4.62,
      "spread_bps_min": 0.059
     },
     "SOL": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 4.845,
+     "n": 238,
+     "spread_bps": 4.912,
      "spread_bps_max": 8.686,
      "spread_bps_min": 2.552
     }
@@ -103,68 +103,68 @@
    "extended": {
     "BTC": {
      "funding_apr_pct": 11.388,
-     "n": 226,
-     "spread_bps": 0.168,
+     "n": 238,
+     "spread_bps": 0.167,
      "spread_bps_max": 0.65,
      "spread_bps_min": 0.161
     },
     "ETH": {
-     "funding_apr_pct": 1.178,
-     "n": 226,
-     "spread_bps": 0.618,
+     "funding_apr_pct": 0.335,
+     "n": 238,
+     "spread_bps": 0.616,
      "spread_bps_max": 1.77,
      "spread_bps_min": 0.584
     },
     "SOL": {
-     "funding_apr_pct": 11.334,
-     "n": 226,
-     "spread_bps": 1.286,
+     "funding_apr_pct": 11.336,
+     "n": 238,
+     "spread_bps": 1.284,
      "spread_bps_max": 3.676,
      "spread_bps_min": 1.211
     }
    },
    "grvt": {
     "BTC": {
-     "funding_apr_pct": 10.504,
-     "n": 226,
+     "funding_apr_pct": 10.526,
+     "n": 238,
      "spread_bps": 0.022,
      "spread_bps_max": 0.813,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 7.821,
-     "n": 226,
-     "spread_bps": 0.071,
+     "funding_apr_pct": 7.83,
+     "n": 238,
+     "spread_bps": 0.072,
      "spread_bps_max": 1.474,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 8.766,
-     "n": 226,
-     "spread_bps": 1.28,
+     "funding_apr_pct": 8.852,
+     "n": 238,
+     "spread_bps": 1.277,
      "spread_bps_max": 3.814,
      "spread_bps_min": 1.212
     }
    },
    "hibachi": {
     "BTC": {
-     "funding_apr_pct": -7.675,
-     "n": 226,
-     "spread_bps": 0.191,
+     "funding_apr_pct": -7.751,
+     "n": 238,
+     "spread_bps": 0.185,
      "spread_bps_max": 3.612,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 4.748,
-     "n": 226,
-     "spread_bps": 1.659,
+     "funding_apr_pct": 3.482,
+     "n": 238,
+     "spread_bps": 1.637,
      "spread_bps_max": 23.719,
      "spread_bps_min": 0.059
     },
     "SOL": {
-     "funding_apr_pct": -20.931,
-     "n": 226,
-     "spread_bps": 3.071,
+     "funding_apr_pct": -21.455,
+     "n": 238,
+     "spread_bps": 3.06,
      "spread_bps_max": 13.732,
      "spread_bps_min": 0.123
     }
@@ -172,68 +172,68 @@
    "hyperliquid": {
     "BTC": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 0.192,
+     "n": 238,
+     "spread_bps": 0.19,
      "spread_bps_max": 1.658,
      "spread_bps_min": 0.161
     },
     "ETH": {
-     "funding_apr_pct": 10.375,
-     "n": 226,
-     "spread_bps": 0.67,
+     "funding_apr_pct": 10.404,
+     "n": 238,
+     "spread_bps": 0.666,
      "spread_bps_max": 2.933,
      "spread_bps_min": 0.583
     },
     "SOL": {
-     "funding_apr_pct": 11.498,
-     "n": 226,
-     "spread_bps": 0.203,
+     "funding_apr_pct": 11.471,
+     "n": 238,
+     "spread_bps": 0.21,
      "spread_bps_max": 2.616,
      "spread_bps_min": 0.121
     }
    },
    "lighter": {
     "BTC": {
-     "funding_apr_pct": 8.872,
-     "n": 226,
-     "spread_bps": 0.421,
+     "funding_apr_pct": 8.955,
+     "n": 238,
+     "spread_bps": 0.41,
      "spread_bps_max": 1.406,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 9.314,
-     "n": 226,
-     "spread_bps": 0.64,
+     "funding_apr_pct": 9.375,
+     "n": 238,
+     "spread_bps": 0.637,
      "spread_bps_max": 3.365,
      "spread_bps_min": 0.059
     },
     "SOL": {
-     "funding_apr_pct": 5.206,
-     "n": 226,
-     "spread_bps": 0.898,
+     "funding_apr_pct": 5.363,
+     "n": 238,
+     "spread_bps": 0.899,
      "spread_bps_max": 4.778,
      "spread_bps_min": 0.122
     }
    },
    "paradex": {
     "BTC": {
-     "funding_apr_pct": 9.688,
-     "n": 226,
-     "spread_bps": 4.662,
+     "funding_apr_pct": 9.703,
+     "n": 238,
+     "spread_bps": 4.591,
      "spread_bps_max": 273.066,
      "spread_bps_min": 0.474
     },
     "ETH": {
-     "funding_apr_pct": 9.211,
-     "n": 226,
-     "spread_bps": 10.351,
+     "funding_apr_pct": 9.288,
+     "n": 238,
+     "spread_bps": 10.167,
      "spread_bps_max": 272.953,
      "spread_bps_min": 2.693
     },
     "SOL": {
-     "funding_apr_pct": 4.165,
-     "n": 226,
-     "spread_bps": 71.497,
+     "funding_apr_pct": 4.034,
+     "n": 238,
+     "spread_bps": 68.281,
      "spread_bps_max": 469.703,
      "spread_bps_min": 1.404
     }
@@ -242,69 +242,69 @@
   "h24": {
    "aster": {
     "BTC": {
-     "funding_apr_pct": 9.84,
-     "n": 226,
-     "spread_bps": 0.078,
-     "spread_bps_max": 2.171,
+     "funding_apr_pct": 9.825,
+     "n": 238,
+     "spread_bps": 0.09,
+     "spread_bps_max": 2.479,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 6.909,
-     "n": 226,
-     "spread_bps": 0.238,
+     "funding_apr_pct": 6.968,
+     "n": 238,
+     "spread_bps": 0.248,
      "spread_bps_max": 2.236,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 3.491,
-     "n": 226,
-     "spread_bps": 1.61,
+     "funding_apr_pct": 3.577,
+     "n": 238,
+     "spread_bps": 1.612,
      "spread_bps_max": 4.879,
      "spread_bps_min": 1.211
     }
    },
    "backpack": {
     "BTC": {
-     "funding_apr_pct": 9.451,
-     "n": 226,
-     "spread_bps": 0.031,
+     "funding_apr_pct": 8.89,
+     "n": 238,
+     "spread_bps": 0.03,
      "spread_bps_max": 1.503,
      "spread_bps_min": 0.016
     },
     "ETH": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 0.084,
+     "n": 238,
+     "spread_bps": 0.089,
      "spread_bps_max": 3.043,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 10.642,
-     "n": 226,
-     "spread_bps": 1.269,
+     "funding_apr_pct": 10.658,
+     "n": 238,
+     "spread_bps": 1.268,
      "spread_bps_max": 2.452,
      "spread_bps_min": 1.211
     }
    },
    "binance": {
     "BTC": {
-     "funding_apr_pct": 6.459,
-     "n": 226,
-     "spread_bps": 0.018,
+     "funding_apr_pct": 6.369,
+     "n": 238,
+     "spread_bps": 0.017,
      "spread_bps_max": 0.214,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 5.281,
-     "n": 226,
+     "funding_apr_pct": 5.41,
+     "n": 238,
      "spread_bps": 0.061,
      "spread_bps_max": 0.12,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 3.675,
-     "n": 226,
-     "spread_bps": 1.263,
+     "funding_apr_pct": 3.397,
+     "n": 238,
+     "spread_bps": 1.262,
      "spread_bps_max": 1.3,
      "spread_bps_min": 1.211
     }
@@ -312,22 +312,22 @@
    "edgex": {
     "BTC": {
      "funding_apr_pct": 10.95,
-     "n": 226,
+     "n": 238,
      "spread_bps": 0.329,
      "spread_bps_max": 1.85,
      "spread_bps_min": 0.017
     },
     "ETH": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 0.971,
+     "n": 238,
+     "spread_bps": 0.974,
      "spread_bps_max": 4.62,
      "spread_bps_min": 0.059
     },
     "SOL": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 4.845,
+     "n": 238,
+     "spread_bps": 4.912,
      "spread_bps_max": 8.686,
      "spread_bps_min": 2.552
     }
@@ -335,68 +335,68 @@
    "extended": {
     "BTC": {
      "funding_apr_pct": 11.388,
-     "n": 226,
-     "spread_bps": 0.168,
+     "n": 238,
+     "spread_bps": 0.167,
      "spread_bps_max": 0.65,
      "spread_bps_min": 0.161
     },
     "ETH": {
-     "funding_apr_pct": 1.178,
-     "n": 226,
-     "spread_bps": 0.618,
+     "funding_apr_pct": 0.335,
+     "n": 238,
+     "spread_bps": 0.616,
      "spread_bps_max": 1.77,
      "spread_bps_min": 0.584
     },
     "SOL": {
-     "funding_apr_pct": 11.334,
-     "n": 226,
-     "spread_bps": 1.286,
+     "funding_apr_pct": 11.336,
+     "n": 238,
+     "spread_bps": 1.284,
      "spread_bps_max": 3.676,
      "spread_bps_min": 1.211
     }
    },
    "grvt": {
     "BTC": {
-     "funding_apr_pct": 10.504,
-     "n": 226,
+     "funding_apr_pct": 10.526,
+     "n": 238,
      "spread_bps": 0.022,
      "spread_bps_max": 0.813,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 7.821,
-     "n": 226,
-     "spread_bps": 0.071,
+     "funding_apr_pct": 7.83,
+     "n": 238,
+     "spread_bps": 0.072,
      "spread_bps_max": 1.474,
      "spread_bps_min": 0.058
     },
     "SOL": {
-     "funding_apr_pct": 8.766,
-     "n": 226,
-     "spread_bps": 1.28,
+     "funding_apr_pct": 8.852,
+     "n": 238,
+     "spread_bps": 1.277,
      "spread_bps_max": 3.814,
      "spread_bps_min": 1.212
     }
    },
    "hibachi": {
     "BTC": {
-     "funding_apr_pct": -7.675,
-     "n": 226,
-     "spread_bps": 0.191,
+     "funding_apr_pct": -7.751,
+     "n": 238,
+     "spread_bps": 0.185,
      "spread_bps_max": 3.612,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 4.748,
-     "n": 226,
-     "spread_bps": 1.659,
+     "funding_apr_pct": 3.482,
+     "n": 238,
+     "spread_bps": 1.637,
      "spread_bps_max": 23.719,
      "spread_bps_min": 0.059
     },
     "SOL": {
-     "funding_apr_pct": -20.931,
-     "n": 226,
-     "spread_bps": 3.071,
+     "funding_apr_pct": -21.455,
+     "n": 238,
+     "spread_bps": 3.06,
      "spread_bps_max": 13.732,
      "spread_bps_min": 0.123
     }
@@ -404,68 +404,68 @@
    "hyperliquid": {
     "BTC": {
      "funding_apr_pct": 10.95,
-     "n": 226,
-     "spread_bps": 0.192,
+     "n": 238,
+     "spread_bps": 0.19,
      "spread_bps_max": 1.658,
      "spread_bps_min": 0.161
     },
     "ETH": {
-     "funding_apr_pct": 10.375,
-     "n": 226,
-     "spread_bps": 0.67,
+     "funding_apr_pct": 10.404,
+     "n": 238,
+     "spread_bps": 0.666,
      "spread_bps_max": 2.933,
      "spread_bps_min": 0.583
     },
     "SOL": {
-     "funding_apr_pct": 11.498,
-     "n": 226,
-     "spread_bps": 0.203,
+     "funding_apr_pct": 11.471,
+     "n": 238,
+     "spread_bps": 0.21,
      "spread_bps_max": 2.616,
      "spread_bps_min": 0.121
     }
    },
    "lighter": {
     "BTC": {
-     "funding_apr_pct": 8.872,
-     "n": 226,
-     "spread_bps": 0.421,
+     "funding_apr_pct": 8.955,
+     "n": 238,
+     "spread_bps": 0.41,
      "spread_bps_max": 1.406,
      "spread_bps_min": 0.016
     },
     "ETH": {
-     "funding_apr_pct": 9.314,
-     "n": 226,
-     "spread_bps": 0.64,
+     "funding_apr_pct": 9.375,
+     "n": 238,
+     "spread_bps": 0.637,
      "spread_bps_max": 3.365,
      "spread_bps_min": 0.059
     },
     "SOL": {
-     "funding_apr_pct": 5.206,
-     "n": 226,
-     "spread_bps": 0.898,
+     "funding_apr_pct": 5.363,
+     "n": 238,
+     "spread_bps": 0.899,
      "spread_bps_max": 4.778,
      "spread_bps_min": 0.122
     }
    },
    "paradex": {
     "BTC": {
-     "funding_apr_pct": 9.688,
-     "n": 226,
-     "spread_bps": 4.662,
+     "funding_apr_pct": 9.703,
+     "n": 238,
+     "spread_bps": 4.591,
      "spread_bps_max": 273.066,
      "spread_bps_min": 0.474
     },
     "ETH": {
-     "funding_apr_pct": 9.211,
-     "n": 226,
-     "spread_bps": 10.351,
+     "funding_apr_pct": 9.288,
+     "n": 238,
+     "spread_bps": 10.167,
      "spread_bps_max": 272.953,
      "spread_bps_min": 2.693
     },
     "SOL": {
-     "funding_apr_pct": 4.165,
-     "n": 226,
-     "spread_bps": 71.497,
+     "funding_apr_pct": 4.034,
+     "n": 238,
+     "spread_bps": 68.281,
      "spread_bps_max": 469.703,
      "spread_bps_min": 1.404
     }
